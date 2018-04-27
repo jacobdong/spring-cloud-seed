@@ -8,4 +8,4 @@ eureka:
     hostname: service-consumer
   client:
     serviceUrl:
-      defaultZone: http://localhost:7000/eureka/
+      defaultZone: http://localhost:7002/eureka/
