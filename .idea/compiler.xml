@@ -11,6 +11,7 @@
         <module name="service-discovery" />
         <module name="service-mongo" />
         <module name="service-monitor" />
+        <module name="service-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

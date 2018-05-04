@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>service-discovery</module>
+        <module>service-provider</module>
         <module>service-monitor</module>
         <module>service-mongo</module>
         <module>cloud-core</module>
